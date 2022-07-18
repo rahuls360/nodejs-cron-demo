@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-cron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "14": "^3.1.6",
+    "node-cron": "^3.0.1",
+    "uuid": "^8.3.2"
+  }
+}
